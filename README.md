@@ -1,6 +1,4 @@
-# AngularFirebaseAuthentication
-
-[Angular 10 Firebase Authentication Example Tutorial](https://www.remotestack.io/angular-firebase-authentication-example-tutorial/)
+# Internship Project
 
 - Sign-in with Google
 - Sign-in with username/password
